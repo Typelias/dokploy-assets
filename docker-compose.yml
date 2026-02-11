@@ -1,5 +1,5 @@
 services:
-  assets:
+  file-server:
     build:
       context: .
       dockerfile: Dockerfile
